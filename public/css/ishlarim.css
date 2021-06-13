@@ -1,0 +1,29 @@
+.projects{
+    /* background-color:#3f494c; */
+    text-align: center;
+    align-items: center;
+    border-left: 1mm solid crimson;
+    margin-top: 1cm;
+}
+p{
+    margin-top: 0.5cm;
+}
+.network{
+    text-align: center;
+    align-items: center;
+    font-size: large;  
+    margin: 1cm; 
+    padding: 0.2cm;
+}
+.telefon{
+    font-size: large;
+    text-align: center;
+    align-items: center;
+}
+i{
+    font-size: 0.7cm;
+}
+
+.posts{
+    margin-top: 1cm;
+}
